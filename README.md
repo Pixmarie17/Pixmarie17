@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Blueprints-0A1128?style=flat&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/>
 </p>
 
 ---
