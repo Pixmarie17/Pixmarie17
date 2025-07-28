@@ -37,22 +37,16 @@
 ### 📲 Find me on social media
 
 <p align="left">
-  <a href="https://youtube.com/@tuusuario" target="_blank">
+  <a href="https://www.youtube.com/@p3dev722/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Channel"/>
   </a>
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/tuusuario" target="_blank">
+  <a href="https://x.com/pixcraft_15" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/tuusuario" target="_blank">
+  <a href="https://www.instagram.com/pixcraft15/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://facebook.com/tuusuario" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:tuemail@ejemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://www.facebook.com/p3dev?view_public_for=102015581551316" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=whit" alt="Facebook"/>
   </a>
 </p>
